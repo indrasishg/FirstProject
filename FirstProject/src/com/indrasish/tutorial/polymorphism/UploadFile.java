@@ -15,7 +15,7 @@ public class UploadFile {
 			
 			e.printStackTrace();
 		}
-		return "Successful";
+		return "Successfully Done";
 	}
 
 }
